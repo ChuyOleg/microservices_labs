@@ -1,4 +1,4 @@
-package com.example.dockerjavawebapp;
+package com.example.servlets;
 
 //import jakarta.servlet.RequestDispatcher;
 //import jakarta.servlet.ServletException;

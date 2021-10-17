@@ -6,12 +6,12 @@
     
     <servlet>
         <servlet-name>HelloServlet</servlet-name>
-        <servlet-class>com.example.dockerjavawebapp.HelloServlet</servlet-class>
+        <servlet-class>com.example.servlets.HelloServlet</servlet-class>
     </servlet>
 
     <servlet>
         <servlet-name>StartServlet</servlet-name>
-        <servlet-class>com.example.dockerjavawebapp.StartServlet</servlet-class>
+        <servlet-class>com.example.servlets.StartServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
